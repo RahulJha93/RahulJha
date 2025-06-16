@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Jha</h1>
 <h3 align="center">A Passionate Software Engineer From India</h3>
 
-- 🔭 SDE INTERN @ AVR NEXT SOLUTIONS
 
 - 🌱 I’m currently learning **Springboot**
 
