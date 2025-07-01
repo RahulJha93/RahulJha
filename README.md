@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.rahulsjha.in/](https://www.rahulsjha.in/)
 
-- 📝 I regularly write articles on [https://www.rahulsjha.in/blogs](https://www.rahulsjha.in/blogs)
+- 📝 I regularly write articles on [https://www.rahulsjha.in/blogs](https://www.rahulsjha.in/blog)
 
 - 💬 Ask me about **React,Nextjs,Express,Java,Cpp,Python**
 
